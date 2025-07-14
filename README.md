@@ -23,9 +23,9 @@
 - **Programming Languages** – Python, Rust, C, C++, Java, Ruby, HTML, CSS, JavaScript, TypeScript, SQL, Assembly
 - **Frameworks/Libraries** – React.js, Next.js, Auth.js, Node.js, Express.js, Ruby on Rails, Flask, Tailwind CSS, three.js, GSAP, OpenCV, PyTorch, Scikit-Learn, NumPy, Matplotlib
 - **Tools/Software/OS** – Git, GitHub, PostgreSQL, UML, Excel, MATLAB, R, ROS, Oauth 2.0, RESTful APIs, Docker, Firebase, Google Cloud, Vercel, Linux, Windows, MacOS
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="20"/> Rust  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ---
 
 ### Let's Connect
