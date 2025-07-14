@@ -23,10 +23,7 @@
 - **Programming Languages** – Python, Rust, C, C++, Java, Ruby, HTML, CSS, JavaScript, TypeScript, SQL, Assembly
 - **Frameworks/Libraries** – React.js, Next.js, Auth.js, Node.js, Express.js, Ruby on Rails, Flask, Tailwind CSS, three.js, GSAP, OpenCV, PyTorch, Scikit-Learn, NumPy, Matplotlib
 - **Tools/Software/OS** – Git, GitHub, PostgreSQL, UML, Excel, MATLAB, R, ROS, Oauth 2.0, RESTful APIs, Docker, Firebase, Google Cloud, Vercel, Linux, Windows, MacOS
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="32"/> <!-- For Assembly alt -->---
 
 ### Let's Connect
 - Email – <bryan.wieschenberg@gmail.com>
