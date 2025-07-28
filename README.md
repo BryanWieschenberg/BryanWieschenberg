@@ -15,7 +15,7 @@
 
 ### Projects & Highlights
 - **GoalGetter** – Full-stack productivity platform built with Next.js, designed to help users build daily systems with AI-powered planning, real-time collaboration, and a highly intuitive interface
-- **ScreenStopper** – Privacy-first browser extension powered by a custom ONNX model that tracks and visualizes your browsing patterns to help reduce distraction and improve focus
+- **[Clima App](https://github.com/BryanWieschenberg/Clima)** – Eco-friendly browser extension powered by custom ONNX models that stores your wardrobe and recommends clothing based on weather conditions
 - **[StreamLine](https://github.com/BryanWieschenberg/StreamLine)** – Secure local chat application built with Rust, supporting real-time messaging, room and role support, and a highly customizable command-driven experience
 - **[DSA Collection](https://github.com/BryanWieschenberg/DSA-Collection)** – Clean, well-documented Python implementations of data structures & algorithms problems
 - **[Portfolio Website](https://github.com/BryanWieschenberg/Personal-Website)** – Responsive portfolio built with React.js to showcase my skills, roles, and projects---
