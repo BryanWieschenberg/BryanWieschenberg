@@ -14,7 +14,7 @@
 
 ### Projects & Highlights
 - **GoalGetter** – Full-stack productivity platform built with Next.js, designed to help users build healthy productivity systems with a highly intuitive interface
-- **[StreamLine](https://github.com/BryanWieschenberg/StreamLine)** – Secure local chat application built with Rust, supporting real-time messaging, room and role support, and a highly customizable command-driven experience
+- **[StreamLine](https://github.com/BryanWieschenberg/StreamLine)** – End-to-end encrypted LAN chat application built with Rust, supporting real-time messaging, room and role support, and a highly customizable command-driven experience
 - **[DSA Collection](https://github.com/BryanWieschenberg/DSA-Collection)** – Clean, well-documented Python implementations of data structures & algorithms problems
 - **[Portfolio Website](https://github.com/BryanWieschenberg/Personal-Website)** – Responsive portfolio built with React.js to showcase my skills, roles, and projects---
 
