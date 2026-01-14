@@ -13,7 +13,8 @@
 ---
 
 ### Projects & Highlights
-- **[AskJet](https://askjet.io)** – Fully-featured productivity platform with an AI assistant that turns free-form requests into safe, reviewable task and calendar actions. Built with React, TanStack Router/Query, Hono, Cloudflare Workers, PostgreSQL, and LLMs.
+- **[AskJet](https://askjet.io)** – Fully-featured productivity platform with an AI assistant that turns free-form requests into safe, reviewable task and calendar actions. Built with React, TanStack Router/Query, Hono, Cloudflare Workers, PostgreSQL, and LLMs
+- **[GoalGetter](https://github.com/BryanWieschenberg/GoalGetter)** – Task & calendar management app built with Next.js and PostgreSQL, designed to help users build healthy productivity systems with a highly intuitive split-screen interface
 - **[StreamLine](https://github.com/BryanWieschenberg/StreamLine)** – End-to-end encrypted LAN chat application built with Rust, supporting real-time messaging, room and role support, and a highly customizable command-driven experience
 - **[Portfolio Website](https://github.com/BryanWieschenberg/Personal-Website)** – Responsive portfolio built with React.js to showcase my skills, roles, and projects
 - **[DSA Collection](https://github.com/BryanWieschenberg/DSA-Collection)** – Clean, well-documented Python implementations of data structures & algorithms problems
