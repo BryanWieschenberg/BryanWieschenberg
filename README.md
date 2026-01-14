@@ -7,13 +7,13 @@
 ---
 
 ### About Me
-- CS student @ TCNJ, passionate about **full-stack development**, **system design**, and **systems engineering**
-- Building productivity apps, performant tools, and things I wish existed
-- I love innovative tech, modular architecture, and making things that *just work*
+- CS student @ TCNJ, passionate about **full-stack development** and **systems engineering**
+- Currently building the productivity I wish existed
+- I love innovative tech and making things that *just work*
 ---
 
 ### Projects & Highlights
-- **[GoalGetter](https://goalgetter.dev)** – Full-stack productivity platform built with Next.js, designed to help users build healthy productivity systems with a highly intuitive interface
+- **[AskJet](https://askjet.io)** – Fully-featured productivity platform with an AI assistant that turns free-form requests into safe, reviewable task and calendar actions. Built with React, TanStack Router/Query, Hono, Cloudflare Workers, PostgreSQL, and LLMs.
 - **[StreamLine](https://github.com/BryanWieschenberg/StreamLine)** – End-to-end encrypted LAN chat application built with Rust, supporting real-time messaging, room and role support, and a highly customizable command-driven experience
 - **[Portfolio Website](https://github.com/BryanWieschenberg/Personal-Website)** – Responsive portfolio built with React.js to showcase my skills, roles, and projects
 - **[DSA Collection](https://github.com/BryanWieschenberg/DSA-Collection)** – Clean, well-documented Python implementations of data structures & algorithms problems
