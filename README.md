@@ -6,7 +6,7 @@
 
 ### About Me
 
-- CS student @ TCNJ, passionate about **full-stack engineering** with a strong focus on backend development and systems engineering
+- Passionate about **full-stack engineering** with a strong focus on backend development and systems engineering
 - I love innovative tech and making things that _just work_
 
 ---
