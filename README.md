@@ -13,6 +13,7 @@
 
 ### Projects & Highlights
 
+- **[Stellar Papers](https://github.com/AidanS39/stellar-papers)** ([Visit](https://stellarpapers.vercel.app)) – Explore academic papers through interactive, stellar graph visualizations. Built with Next.js, TypeScript, MongoDB, Neo4j, Google Gemini, and Python.
 - **[GoalGetter](https://github.com/BryanWieschenberg/GoalGetter)** ([Visit](https://goalgetter.dev)) – Secure, high-performance productivity platform unifying task and calendar management. Built with Next.js, TypeScript, PostgreSQL, and Redis.
 - **[StreamLine](https://github.com/BryanWieschenberg/StreamLine)** – End-to-end encrypted and feature-rich terminal-based LAN chat platform. Built with Rust, ratatui/crossterm, and end-to-end encryption.
 - **[Portfolio Website](https://github.com/BryanWieschenberg/Portfolio)** ([Visit](https://bryanwieschenberg.com)) – A visual showcase of my engineering work. Built with React and TypeScript.
