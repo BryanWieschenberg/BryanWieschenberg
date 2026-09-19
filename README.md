@@ -17,7 +17,6 @@
 - **[GoalGetter](https://github.com/BryanWieschenberg/GoalGetter)** ([Visit](https://goalgetter.dev)) – Secure, high-performance productivity platform unifying task and calendar management. Built with Next.js, TypeScript, PostgreSQL, and Redis.
 - **[StreamLine](https://github.com/BryanWieschenberg/StreamLine)** – End-to-end encrypted and feature-rich terminal-based LAN chat platform. Built with Rust, ratatui/crossterm, and end-to-end encryption.
 - **[Portfolio Website](https://github.com/BryanWieschenberg/Portfolio)** ([Visit](https://bryanwieschenberg.com)) – A visual showcase of my engineering work. Built with React and TypeScript.
-- **[DSA Collection](https://github.com/BryanWieschenberg/DSA-Collection)** – A suite of my data structures and algorithms solutions and visualizations. Built with Python, Numpy, ModernGL, and Pygame.
 
 ---
 
